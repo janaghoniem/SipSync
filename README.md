@@ -1,16 +1,14 @@
-# sipsyncdemo
+# SipSync
 
-A new Flutter project.
+**SipSync** is a mobile application built with Flutter that helps users track their daily beverage intake and stay hydrated. It includes a responsive user interface, intake logging features, and hydration tracking views. The backend is not yet implemented but is planned for future development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- User authentication screens (Login/Signup) with form validation  
+- User dashboard to log water and beverage intake  
+- Hydration progress indicators and daily tracking  
+- Clean, organized UI for a smooth user experience  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
